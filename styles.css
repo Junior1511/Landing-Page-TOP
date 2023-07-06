@@ -63,3 +63,9 @@ a{
 ::placeholder{
     color: lightgrey
 }
+
+.p2-title {
+    font-size: 36px;
+    font-weight: bolder;
+    color: #1f2937;
+}
